@@ -1,5 +1,5 @@
 import IconArrowRight from "../Components/Icons/IconArrowRight";
-import IconPatchCheck from "../Components/icons/IconPatchCheck";
+import IconPatchCheck from "../Components/Icons/IconPatchCheck";
 import CookingImage from '../assets/Images/cooking1.png';
 import PizzaImage from '../assets/Images/pizza2.png';
 import OrderFood from '../assets/Images/orderFood.png';
